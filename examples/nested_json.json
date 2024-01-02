@@ -1,0 +1,19 @@
+{
+  "isbn": "1234",
+  "author": {
+    "lastname": "Test",
+    "firstname": "",
+    "birthdate": {
+      "year": 1990,
+      "month": 12,
+      "day": 31
+    }
+  },
+  "latex": "$y = mx + b$",
+  "editor": {
+    "firstname": "Jane",
+    "lastname": "Smith"
+  },
+  "title": "The Ultimate Database Study Guide",
+  "category": ["Non-Fiction", "Technology"]
+}
